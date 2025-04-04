@@ -1,3 +1,6 @@
+#to check out later 
+# understand the code and try to repeat it by my self 
+
 library(dplyr)
 library(ggplot2)
 library(zoo)
